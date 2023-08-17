@@ -1,0 +1,9 @@
+env_name: 'HighwayEnvEgoIBDMMOBILReward'
+num_episodes: 1000
+num_steps: 40
+save_result_csv: './results/lambda-0.8/result.csv'
+model_path: "./weights/model.zip"
+reward_file: './results/lambda-0.8/result.npy'
+save_pic: './results/lambda-0.8/images/'
+ttc_threshold: 1.5
+ego_collision_weight: 0.8

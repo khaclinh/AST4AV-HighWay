@@ -1,0 +1,1 @@
+python -m tools.main --config_path config/lambda-0.8.yaml
