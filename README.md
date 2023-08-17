@@ -54,7 +54,8 @@ If you used the code in this repository or found the paper interesting, please c
 ---
 
 ## Acknowledgements
-Especially thanks to [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) with there excellent work. This code base borrow borrow frameworks to accelerate implementation.
+- Especially thanks to [HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) with there excellent work. This code base borrow borrow frameworks to accelerate implementation.
+- This project is supported by a grant from the Smart Pavements Australia Research Collaboration Hub.
 
 ## Contact
 If you have any problems about this work, please contact Linh Trinh at linhtk.dhbk@gmail.com.
