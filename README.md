@@ -43,11 +43,12 @@ python main.py --config_path config/<YOUR_CONFIG>.yaml
 ## Citation
 If you used the code in this repository or found the paper interesting, please cite it as
 ```text
-@article{Linh2023,
-  title={A novel framework for adaptive stress testing of autonomous vehicles in the highway},
-  author={Trinh, Linh and Hung, Luu and Thai, Nguyen and Hai, Le Vu},
-  journal={arXiv preprint arXiv:},
-  year={2023}
+@misc{trinh2024,
+      title={A novel framework for adaptive stress testing of autonomous vehicles in highways}, 
+      author={Linh Trinh and Quang-Hung Luu and Thai M. Nguyen and Hai L. Vu},
+      year={2024},
+      eprint={2402.11813},
+      archivePrefix={arXiv}
 }
 ```
 
