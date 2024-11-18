@@ -44,11 +44,13 @@ python main.py --config_path config/<YOUR_CONFIG>.yaml
 If you used the code in this repository or found the paper interesting, please cite it as
 ```text
 @misc{trinh2024,
-      title={A novel framework for adaptive stress testing of autonomous vehicles in highways}, 
+      title={A novel framework for adaptive stress testing of autonomous vehicles in multi-lane roads}, 
       author={Linh Trinh and Quang-Hung Luu and Thai M. Nguyen and Hai L. Vu},
       year={2024},
       eprint={2402.11813},
-      archivePrefix={arXiv}
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2402.11813}, 
 }
 ```
 
